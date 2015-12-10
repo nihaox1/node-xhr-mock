@@ -1,0 +1,19 @@
+{
+    "name": "node-xhr-mock",
+    "version": "0.0.1",
+    "description": "mock data for nodejs http",
+    "main": "index.js",
+    "homepage": "https://github.com/nihaox1/node-xhr-mock",
+    "author"  : {
+        "name"    : "bo.cheng",
+        "email"   : "chen8114@sina.com"
+    },
+    "repository": {
+        "type"  : "git",
+        "url"   : "https://github.com/nihaox1/node-xhr-mock.git"
+    },
+    "dependencies": {
+        "co-fs"         : "^1.2.0",
+        "koa"           : "^0.20.0"
+    }
+}
