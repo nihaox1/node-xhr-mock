@@ -28,7 +28,7 @@ mock    = koaHttpMock( {
             _abort;
 
         _req = http.request( {
-                hostname    : "app.zaijiadd.com" ,
+                hostname    : "xxxxx.com" ,
                 port        : 80 ,
                 path        : url,
                 method      : "POST",
@@ -74,7 +74,7 @@ mock    = koaHttpMock( {
             _abort;
 
         _req = http.request( {
-                hostname    : "app.zaijiadd.com" ,
+                hostname    : "wwwww.com" ,
                 port        : 80 ,
                 path        : url,
                 method      : "get",
